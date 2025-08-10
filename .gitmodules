@@ -4,3 +4,6 @@
 [submodule "3rdparty/HexSuite"]
 	path = 3rdparty/HexSuite
 	url = https://github.com/can1357/HexSuite
+[submodule "3rdparty/LIEF"]
+	path = 3rdparty/LIEF
+	url = https://github.com/lief-project/LIEF
